@@ -11,7 +11,12 @@ The data set is somewhat linearly separable among the three classes. The Versico
 separated by a straight line, even though it is close. The Setosa class can be linearly separated from the Versicolor and Virginica
 class. The dataset is an ideal candidate for classification analysis, but not as good for clustering analysis.
 
+For the files svm_iris_July_29_2019.py and svm_iris_July_29_2019.png
 Using the iris dataset, a supervised learning model is created using support vector machine (SVM). A supervised learning model 
 learns from the data that is already labeled. The dataset is split into a training set (90%) and a test set (10%). To visualize 
 the classifier, the module matplotlib creates the plot. 
+
+For the file random_forest_iris_July_29_2019.py
+Using the iris dataset, a supervised learning model is created using an ensemble of decision trees to formulate a model. A random subset of the training data votes to select that best and strongest model. 
+
 
