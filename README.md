@@ -14,3 +14,4 @@ class. The dataset is an ideal candidate for classification analysis, but not as
 Using the iris dataset, a supervised learning model is created using support vector machine (SVM). A supervised learning model 
 learns from the data that is already labeled. The dataset is split into a training set (90%) and a test set (10%). To visualize 
 the classifier, the module matplotlib creates the plot. 
+
