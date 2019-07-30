@@ -19,4 +19,7 @@ the classifier, the module matplotlib creates the plot.
 For the file random_forest_iris_July_29_2019.py
 Using the iris dataset, a supervised learning model is created using an ensemble of decision trees to formulate a model. A random subset of the training data votes to select that best and strongest model. 
 
+For the files k_means_iris_July_29_2019.py and k_means_iris_July_29_2019.png
+Using the iris dataset, an unsupervised learning model is created using K-Means. K-Means is a clustering algorithm. It does not use a training dataset and it doesn't normally know the outcomes, therefore, the dataset isn't labeled and there is no acceptance of a target value during the creation of the clustering algorithm. K-Means is highly scalable, but is best used for datasets that have a smaller number of clusters with linearly separable data that is proportional in size.
+
 
