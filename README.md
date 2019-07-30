@@ -25,3 +25,6 @@ Using the iris dataset, an unsupervised learning model is created using K-Means.
 For the files k_means_without_labels_iris_July_30_2019.py and k_means_without_labels_iris_July_30_2019.png
 Using the iris dataset, an unsupervised learning model is created using K-Means. The scatter plot has a data reduction to two-dimensions using Principal Component Analysis (PCA). This exercise shows the student how data might look in different dimensions, so that one can gain experience in unsupervised learning with datasets. In this example, the Virginica and Versicolor classes are not easily identifiable clusters. 
 
+For the files k_means_3_clusters_July_30_2019 and k_means_clusters_the_dataset_into_3_clusters_July_30_2019.png
+Using the iris dataset, an unsupervised learning model is created using K-Means. The scatter plot now has labels because the output is known.
+
