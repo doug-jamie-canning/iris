@@ -28,5 +28,8 @@ Using the iris dataset, an unsupervised learning model is created using K-Means.
 For the files k_means_3_clusters_July_30_2019.py and k_means_clusters_the_dataset_into_3_clusters_July_30_2019.png
 Using the iris dataset, an unsupervised learning model is created using K-Means. The scatter plot now has labels because the output is known.
 
+For the files k_means_4_clusters_July_30_2019.py and K_means_with_4_clusters.png
+Using the iris dataset, an unsupervised learning model is created using K-Means. The scatter plot shows that the cluster on the right produces less meaningful results as the value of k goes up.
+
 For the files k_means_2_clusters.py and k_means_2_clusters.png
 Using the iris dataset, an unsupervised learning model is created using K-Means. The scatter plot has labels, but only 2 clusters. The success rate of the prediction is 67%. At first glance, the model seems reasonable, but the guess is wrong regarding the amount of clusters.
