@@ -22,4 +22,6 @@ Using the iris dataset, a supervised learning model is created using an ensemble
 For the files k_means_iris_July_29_2019.py and k_means_iris_July_29_2019.png
 Using the iris dataset, an unsupervised learning model is created using K-Means. K-Means is a clustering algorithm. It does not use a training dataset and it doesn't normally know the outcomes, therefore, the dataset isn't labeled and there is no acceptance of a target value during the creation of the clustering algorithm. K-Means is highly scalable, but is best used for datasets that have a smaller number of clusters with linearly separable data that is proportional in size.
 
+For the files k_means_without_labels_iris_July_30_2019.py and k_means_without_labels_iris_July_30_2019.png
+Using the iris dataset, an unsupervised learning model is created using K-Means. The scatter plot has a data reduction to two-dimensions using Principal Component Analysis (PCA). This exercise shows the student how data might look in different dimensions, so that one can gain experience in unsupervised learning with datasets. In this example, the Virginica and Versicolor classes are not easily identifiable clusters. 
 
