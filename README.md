@@ -38,3 +38,6 @@ Using the iris dataset, an unsupervised learning model is created using K-Means.
 
 For the files DBSCAN_2_clusters_and_noise.py and DBSCAN.png
 DBSCAN is a clustering algorithm used in unsupervised learning. There are two parameters that are tuned in the algorithm. The parameter eps is the maximum distance between two parameters for which the data points are considered to be in the same neighborhood. The min_samples parameter is the minimum amont of data points in a neighborhood to be considered a cluster.
+
+For the files mean_shift.py and mean_shift.png
+Mean shift is a clustering algorithm used in unsupervised learning. There is a tuning parameter called bandwidth. Bandwidth is similar to chosing a size of a round window that can include the data points in a cluster. It isn't required to specify a number of clusters.
